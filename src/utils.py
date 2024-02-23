@@ -1,9 +1,9 @@
 import dill
 
-APP_USAGE = "app usage"
+APP_USAGE = "app-usage"
 INCLUSIVENESS = "inclusiveness"
-USER_REACTION = "user reaction"
-NON_HC = "non human-centric"
+USER_REACTION = "user-reaction"
+NON_HC = "non-human-centric"
 
 
 def map_raw_output_to_labels(raw_output):
